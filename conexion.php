@@ -4,7 +4,7 @@
 	// Datos de la base de datos
     define('SERVERNAME', 'localhost');
     define('USERNAME', 'root');
-	define('PASSWORD', '0701951063');
+	define('PASSWORD', '');
 	define('DBNAME', 'espe_investiga');
 	
 	// creación de la conexión a la base de datos con mysql_connect()
@@ -14,5 +14,5 @@
     if($conn -> connect_error){
         die('Conexión fallida: ' . $conn -> connect_error);
     } else{
-        echo("OK");
+        //echo("OK");
     }

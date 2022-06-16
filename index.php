@@ -80,17 +80,21 @@ require_once "conexion.php";
     </section>
   </header>
 
-
 <!-- Acerca de nosotros -->
-  <h2>Sobre Nosotros</h2>
+<h2>SITARA</h2>
   <section class="info">
-    <img src="img/gif/participa.gif">
+    <img class="post_sitara" src="img/SITARA.png">
     <div class="info_contenido">
-      <p>Los proyectos expuestos en esta sección, son proyectos desarrollados por parte de estudiantes de la Universidad
-        de las Fuerzas Armadas-ESPE extensión Santo Domingo. Tambien ofrecemos una espacio para que la sociedad tenga la
-        oportunidad de hacer conocer sus proyectos. <br><br>
-        Si eres un estudiante de carrera o una persona en particular, y quieres participar en este evento. Para mayor 
-        información sobre el proceso de incripción y participación dale clic en el siguiente enlace.<br><br>
+      <p>
+      TCRN E.M Ing. Jorge Fierro Villacís, Mgs
+      <br>
+      <b>Director de la Universidad de las Fuerzas Armadas ESPE Sede Santo Domingo de los Tsáchilas.</b>
+      <br>
+      Tiene el honor de extender una cordial invitación a la ceremonia de inauguración del evento científico, <b>“SEMINARIO INTERNACIONAL DE TÉCNICAS AVANZADAS DE REPRODUCCIÓN ANIMAL ASISTIDA”</b>, organizado en conmemoración de los 100 Años de vida institucional de la Universidad de las Fuerzas Armadas ESPE.
+      <br>
+      <b> Fecha: </b> 22 al 24 de junio de 2022 <br>
+      <b> Hora: </b> 08:00 am <br>
+      <b> Modalidad Virtual: </b> https://cedia.zoom.us/meeting/register/tZIufu-orzgoHdca9vCNTW7D-3XuiWqKNHfU
       </p>
       <div class="boton">
         <a href="nosotros.php">
@@ -114,7 +118,7 @@ require_once "conexion.php";
             <p>Ponentes</p>
           </div>
           <div class="columna_num">
-            <h1>3</h1><br>
+            <h1>5</h1><br>
             <p>Paises</p>
           </div>
       </div>
@@ -146,37 +150,6 @@ require_once "conexion.php";
     width="100%" height="350" frameborder="0" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
   </section>
 
-<!--seccion del slider empresas-->
-
-
-<!--seccion del enviar comentarios-->
- <div class="footer">
-  <div class="deg-footer"></div>
-  <div class="ejeZfooter">
-  <div class="footer-content">
-   <div class="footer-title">
-     <h2>Deseas más información</h2>
-   </div>
-
-   <div class="formulario-content">
-    <form id="formulario" action="enviar.php" method="post">
-        <label>Nombre y Apellido :</label>
-        <input type="text" id="nombre" name="nombre" placeholder="Ingresa tu nombre y apellido" required="">
-   
-        <label>Correo Electrónico:</label>
-        <input type="email" id="email" name="email" placeholder="Ingresa tu Correo Electronico" required="">
-
-        <label>Asunto :</label>
-        <input type="text" id="asunto" name="asunto" placeholder="Ingresa tus Nombre" required="">     
-   
-        <label for="message">Escribe tu mensaje</label>
-        <textarea name="mensaje" id="mensaje"></textarea>
-   
-        <div class="send"><button type="submit" name="send" id="send"> ENVIAR </button></div>
-     </form>
-   </div>
-  </div>
-  </div>
 </div>
 
 <!--seccion del pie de pagina-->
