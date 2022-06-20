@@ -52,7 +52,7 @@
       <br>
       <b>Director de la Universidad de las Fuerzas Armadas ESPE Sede Santo Domingo de los Tsáchilas.</b>
       <br>
-      Tiene el honor de extender una cordial invitación a la ceremonia de inauguración del evento científico, <b>“SEMINARIO INTERNACIONAL DE TÉCNICAS AVANZADAS DE REPRODUCCIÓN ANIMAL ASISTIDA”</b>, organizado en conmemoración de los 100 Años de vida institucional de la Universidad de las Fuerzas Armadas ESPE.
+      Tiene el agrado de invitar a usted al Evento Científico <b>“SEMINARIO INTERNACIONAL DE TÉCNICAS AVANZADAS DE REPRODUCCIÓN ANIMAL ASISTIDA, 2022”</b> organizado en conmemoración de los 100 años de Vida Institucional, que se desarrollará del 22 al 24 de Junio estará dirigido a estudiantes, productores-ganaderos, sector productivo, instituciones públicas-privadas y profesionales del área.
       <br>
       <b> Fecha: </b> 22 al 24 de junio de 2022 <br>
       <b> Hora: </b> 08:00 am <br>
