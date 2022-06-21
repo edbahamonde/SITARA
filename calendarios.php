@@ -6,7 +6,7 @@ require_once "conexion.php";
     if($stmt = $conn->prepare($query)){
         if($stmt->execute()){
             $result = $stmt->get_result();
-            if($result->num_rows >= 0){
+            if($result->num_rows > 0){
                 $row = $result -> fetch_array(MYSQLI_ASSOC);
                 $link = $row['LINK_PONENCIA']; 
                 $inscripcion = $row['LINK_INSCRIPCION'];
@@ -50,7 +50,6 @@ require_once "conexion.php";
           <li><a href="index.php">Inicio</a></li>
           <li><a href="calendarios.php">Calendarios</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="formatos.php">Documentación</a></li>
         </ul>
       </div>
     </nav>
@@ -74,7 +73,7 @@ require_once "conexion.php";
   <h2>Agenda Ponentes</h2>
   <?php 
     echo '<div class="boxes1">';
-      if($result->num_rows >= 0){
+      if($result->num_rows > 0){
         while($row = $result -> fetch_assoc()){
                     
         echo '<div class="ponenc">';
@@ -94,8 +93,6 @@ require_once "conexion.php";
     echo '</div>';
 
   ?>
-  
-
 
 <!-- Acerca de nosotros -->
 <div class="footer">

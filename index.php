@@ -55,7 +55,6 @@ require_once "conexion.php";
           <li><a href="index.php">Inicio</a></li>
           <li><a href="calendarios.php">Calendarios</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="formatos.php">Documentación</a></li>
         </ul>
       </div>
     </nav>
@@ -114,7 +113,7 @@ require_once "conexion.php";
               <p>Asistentes</p>
           </div>
           <div class="columna_num">
-            <h1>17</h1><br>
+            <h1>15</h1><br>
             <p>Ponentes</p>
           </div>
           <div class="columna_num">

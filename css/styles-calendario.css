@@ -152,9 +152,8 @@ body{
     text-align: center;
     padding: 1.5rem 2rem;
     box-shadow: black;
-    border: 4px solid #15a4f7;
-    border-radius: 25px;
     line-height: 30px ;
+    transition-duration: 1s;
   }
   
   .ponenc:hover{

@@ -24,7 +24,6 @@
           <li><a href="index.php">Inicio</a></li>
           <li><a href="calendarios.php">Calendarios</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="formatos.php">Documentación</a></li>
         </ul>
       </div>
     </nav>
